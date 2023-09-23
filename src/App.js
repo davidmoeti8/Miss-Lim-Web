@@ -1,27 +1,25 @@
 import './App.css';
+import Navbar from './components/Navbar';
+import Footer from './components/footer';
+import Home from './pages/Home';
+import Contestants from './pages/Contestants';
+import About from './pages/About';
+import Contact from './pages/Contact';
+import { BrowserRouter as Router, Routes, Route, } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
-        <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
-        </p>
-        <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </p>
-      </header>
+     <Router>
+      <Navbar />
+       <Routes>
+        <Route path='/' element={<Home />}></Route>
+        <Route path='/contestants' element={<Contestants />}></Route>
+        <Route path='/about' element={<About />}></Route>
+        <Route path='/contact' element={<Contact />}></Route>
+       </Routes>
+       <Footer />
+     </Router>
     </div>
   );
 }
