@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Miss-Lim-Web/static/css/main.b51b498c.css",
-    "main.js": "/Miss-Lim-Web/static/js/main.709b7dc7.js",
-    "static/js/496.0320d045.chunk.js": "/Miss-Lim-Web/static/js/496.0320d045.chunk.js",
-    "static/media/SibongileKanunu.png": "/Miss-Lim-Web/static/media/SibongileKanunu.ef80b80d10ea9c439494.png",
-    "static/media/FortunateDlamini.png": "/Miss-Lim-Web/static/media/FortunateDlamini.239e81d139f5244f900f.png",
-    "static/media/ThandekaMalunga.png": "/Miss-Lim-Web/static/media/ThandekaMalunga.5e058e5fbc75e0e5d292.png",
-    "static/media/missLimNewLogo.png": "/Miss-Lim-Web/static/media/missLimNewLogo.3e9a294c7c200a3bf4f8.png",
-    "static/media/LusendaMachinini.png": "/Miss-Lim-Web/static/media/LusendaMachinini.706e10bd2ceec96600e6.png",
-    "static/media/MahlatsePilusa.png": "/Miss-Lim-Web/static/media/MahlatsePilusa.11a99eff68f42a82deee.png",
-    "static/media/MapitsiMoeng.png": "/Miss-Lim-Web/static/media/MapitsiMoeng.12e3e2ac50cf6cc7b77b.png",
-    "static/media/AlidaLetooane.png": "/Miss-Lim-Web/static/media/AlidaLetooane.c1a0533c24bc42dcdad0.png",
-    "static/media/forContacts.png": "/Miss-Lim-Web/static/media/forContacts.dad5ee1b8d1b47fabfdd.png",
-    "static/media/newMissLimHome.webp": "/Miss-Lim-Web/static/media/newMissLimHome.5f7eb8cee871f2639536.webp",
-    "index.html": "/Miss-Lim-Web/index.html",
-    "main.b51b498c.css.map": "/Miss-Lim-Web/static/css/main.b51b498c.css.map",
-    "main.709b7dc7.js.map": "/Miss-Lim-Web/static/js/main.709b7dc7.js.map",
-    "496.0320d045.chunk.js.map": "/Miss-Lim-Web/static/js/496.0320d045.chunk.js.map"
+    "main.css": "/misslimpageant/static/css/main.b51b498c.css",
+    "main.js": "/misslimpageant/static/js/main.298d2baa.js",
+    "static/js/496.0320d045.chunk.js": "/misslimpageant/static/js/496.0320d045.chunk.js",
+    "static/media/SibongileKanunu.png": "/misslimpageant/static/media/SibongileKanunu.ef80b80d10ea9c439494.png",
+    "static/media/FortunateDlamini.png": "/misslimpageant/static/media/FortunateDlamini.239e81d139f5244f900f.png",
+    "static/media/ThandekaMalunga.png": "/misslimpageant/static/media/ThandekaMalunga.5e058e5fbc75e0e5d292.png",
+    "static/media/missLimNewLogo.png": "/misslimpageant/static/media/missLimNewLogo.3e9a294c7c200a3bf4f8.png",
+    "static/media/LusendaMachinini.png": "/misslimpageant/static/media/LusendaMachinini.706e10bd2ceec96600e6.png",
+    "static/media/MahlatsePilusa.png": "/misslimpageant/static/media/MahlatsePilusa.11a99eff68f42a82deee.png",
+    "static/media/MapitsiMoeng.png": "/misslimpageant/static/media/MapitsiMoeng.12e3e2ac50cf6cc7b77b.png",
+    "static/media/AlidaLetooane.png": "/misslimpageant/static/media/AlidaLetooane.c1a0533c24bc42dcdad0.png",
+    "static/media/forContacts.png": "/misslimpageant/static/media/forContacts.dad5ee1b8d1b47fabfdd.png",
+    "static/media/newMissLimHome.webp": "/misslimpageant/static/media/newMissLimHome.5f7eb8cee871f2639536.webp",
+    "index.html": "/misslimpageant/index.html",
+    "main.b51b498c.css.map": "/misslimpageant/static/css/main.b51b498c.css.map",
+    "main.298d2baa.js.map": "/misslimpageant/static/js/main.298d2baa.js.map",
+    "496.0320d045.chunk.js.map": "/misslimpageant/static/js/496.0320d045.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b51b498c.css",
-    "static/js/main.709b7dc7.js"
+    "static/js/main.298d2baa.js"
   ]
 }
