@@ -7,7 +7,7 @@ function Home(){
  return(
     <div className='home' style={{ backgroundImage: `url(${BannerImage})`, opacity: 50 }}>
       <div className='headerContainer'>
-         <h1>Leaders Ignite and Manifest</h1>
+         <h1>Leaders Ignite and Manifest Wizzy</h1>
          <p>Purpose directs passion and passion ignites purpose</p>
           <Link to ="/contestants">
           <button>
